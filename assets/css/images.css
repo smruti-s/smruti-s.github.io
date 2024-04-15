@@ -23,4 +23,19 @@
     width: 100%;
     height: auto;
   }
+
+  .figcaption {
+    font-style: italic;
+    text-align: center;
+    color: #888;
+  }
+  
+  .jaguar-image-container{
+    text-align: center; /* Center-align the content within the container */
+  }
+
+  .jaguar-image-container img {
+    display: block; /* Change the display property to block */
+    margin: 0 auto; /* Set margins to auto to center horizontally */
+  }
   
