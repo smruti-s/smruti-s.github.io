@@ -16,7 +16,7 @@
     height: 326px; /* Adjust this according to your preference */
     border-radius: 50%; /* This makes the element circular */
     overflow: hidden; /* This ensures that the image is clipped to the circular shape */
-    margin-left: 500px; /* Adjust the margin as needed to separate the heading and the headshot */
+    margin-left: 300px; /* Adjust the margin as needed to separate the heading and the headshot */
   }
   
   .circular-headshot img {
